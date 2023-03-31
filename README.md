@@ -1,35 +1,21 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Mi foto](./assets/mi_foto.jpeg)
 
-Bienvenidos a
-# Programación con objetos I
+Presentación personal de
+# Martín Balsamo
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Hola mundo! Mi nombre es Martín. En este momento me encuentro cursando el segundo año de la **Tecnicatura en Programación** en la **Universidad Nacional de Hurlingham** con la intención de, una vez finalizada la tecnicatura, poder continuar con la _Licenciatura_. Después de un duro primer año programando en papel estoy muy contento y entusiasmado con las materias que estoy haciendo este cuatrimestre que son:
+- Programación con objetos I
+- Bases de datos
+- Taller de marcado web.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Antes de llegar a la UNaHur hice gran parte de la **Licenciatrua en Ciencias Físicas** en la **UBA**, digo gran parte porque cursé toda la carrera y cuando estaba rindiendo mis últimos finales y comenzando la tesis estalló la pandemia. Esos meses de aislamiento me metí de lleno a aprender todo lo que pude sobre _aprendizaje automático_, aprovechando la fuerte base de matemática, análisis y estadística que me dio Física, enamorándome por completo del mundo de los datos y la inteligencia artificial.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+A fines del 2021 comencé a trabajar como **Científico de Datos** en una consultora, para darme cuenta que sabía mucho de matemática, pero de programación **absolutamente nada**. Todo mi 2021 fue una contradicción entre estudiar materias de física para recibirme pero desencantado totalmente con esa carrera y el futuro en el cual me visualizaba, así que a fin de ese año decido abandonar esa carrera para seguir lo que realmente me gusta y me entusiasma que es la **Informática**.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+Arranqué el 2022 con la idea de **fracaso** por haber dejado una carrera que me tomó tantos años, por empezar de nuevo, pero rápidamente la UNaHur me acogió y me sentí como en casa. Temía aburrirme en las primeras materias dado mi conocimiento previo pero los conceptos que fui aprendiendo fueron tan útiles que desde _introducción a la lógica_ pude empezar a aplicar las _buenas prácticas_ y los contenidos que iba aprendiendo a mi trabajo diario.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+Hoy estoy muy contento con la decisión tomada, tengo la oportunidad de estar conociendo gente excelente y estar estudiando algo que me apasiona. Esta materia parece un gran desafío, pero si fuera fácil no sería divertido, así que les saludo lleno de entusiasmo.
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+Muchas gracias por leer! Nos vemos en la cursada.
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+~ Martín
